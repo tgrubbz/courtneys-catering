@@ -18,5 +18,9 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CourtneysCatering.BLL\CourtneysCatering.BLL.csproj" />
+    <ProjectReference Include="..\CourtneysCatering.CORE\CourtneysCatering.CORE.csproj" />
+  </ItemGroup>
 
 </Project>
