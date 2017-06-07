@@ -1,0 +1,5 @@
+C:\Git\courtneys-catering\CourtneysCatering.DLL\bin\Debug\netstandard1.4\CourtneysCatering.DLL.deps.json
+C:\Git\courtneys-catering\CourtneysCatering.DLL\bin\Debug\netstandard1.4\CourtneysCatering.DLL.dll
+C:\Git\courtneys-catering\CourtneysCatering.DLL\obj\Debug\netstandard1.4\CourtneysCatering.DLL.csprojResolveAssemblyReference.cache
+C:\Git\courtneys-catering\CourtneysCatering.DLL\obj\Debug\netstandard1.4\CourtneysCatering.DLL.AssemblyInfo.cs
+C:\Git\courtneys-catering\CourtneysCatering.DLL\bin\Debug\netstandard1.4\CourtneysCatering.CORE.dll

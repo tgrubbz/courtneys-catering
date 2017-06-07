@@ -1,0 +1,15 @@
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.WEB.deps.json
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.WEB.runtimeconfig.json
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.WEB.runtimeconfig.dev.json
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.WEB.dll
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.WEB.pdb
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.BLL.dll
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.CORE.dll
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.DAL.dll
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.BLL.pdb
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.CORE.pdb
+C:\Git\courtneys-catering\CourtneysCatering.WEB\bin\Debug\netcoreapp1.1\CourtneysCatering.DAL.pdb
+C:\Git\courtneys-catering\CourtneysCatering.WEB\obj\Debug\netcoreapp1.1\CourtneysCatering.WEB.csprojResolveAssemblyReference.cache
+C:\Git\courtneys-catering\CourtneysCatering.WEB\obj\Debug\netcoreapp1.1\CourtneysCatering.WEB.AssemblyInfo.cs
+C:\Git\courtneys-catering\CourtneysCatering.WEB\obj\Debug\netcoreapp1.1\CourtneysCatering.WEB.dll
+C:\Git\courtneys-catering\CourtneysCatering.WEB\obj\Debug\netcoreapp1.1\CourtneysCatering.WEB.pdb
